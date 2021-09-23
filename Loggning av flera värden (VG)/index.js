@@ -1,1 +1,1 @@
-let myVariable = "Hello World!"
+const first = 1, second = 2
