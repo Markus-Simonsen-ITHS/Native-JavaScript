@@ -1,1 +1,5 @@
-const first = 1, second = 2
+let someString = "ett string-värde"
+let someNumber = 1
+let someBoolean = true
+let someNull = null
+let someUndefined = undefined
