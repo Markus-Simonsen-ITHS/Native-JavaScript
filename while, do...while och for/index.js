@@ -1,3 +1,5 @@
-for (let index = 0; index < 3; index++) {
-    console.log("Hello")
+let alertNumber = prompt()
+while (alertNumber >= 1) {
+    alert(alertNumber)
+    alertNumber--
 }
