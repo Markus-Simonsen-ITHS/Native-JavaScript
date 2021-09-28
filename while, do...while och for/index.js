@@ -1,5 +1,5 @@
 let alertNumber = prompt()
-while (alertNumber >= 1) {
+for (let index = 0; index < alertNumber; index++) {
     alert(alertNumber)
-    alertNumber--
+
 }
