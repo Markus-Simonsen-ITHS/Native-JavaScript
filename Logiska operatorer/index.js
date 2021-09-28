@@ -1,7 +1,3 @@
-let a = 4
+let s = ""
 
-let b = true
-
-let c = 2
-
-let d = "heh"
+let n = 0
