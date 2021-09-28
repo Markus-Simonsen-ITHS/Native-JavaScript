@@ -1,5 +1,5 @@
-if(prompt() < 18) {
-    alert("Ungdom")
+if(prompt() == "alice" && prompt() == "secret") {
+    alert("Inloggad!")
 } else {
-    alert("Vuxen")
+    alert("Fel användarnamn eller lösenord!")
 }
