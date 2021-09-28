@@ -1,7 +1,3 @@
-let price = prompt()
-
-let VAT = 0.20
-
-let priceExlVAT = price * (1 - VAT)
-
-alert(priceExlVAT)
+let age = prompt("What is your age?")
+age++
+alert(`Nästa gång du fyller år blir du ${age}.`)
