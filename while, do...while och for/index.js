@@ -1,5 +1,3 @@
-let x = 0
-while (x < 3) {
+for (let index = 0; index < 3; index++) {
     console.log("Hello")
-    x++
 }
