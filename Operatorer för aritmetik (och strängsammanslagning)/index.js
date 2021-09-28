@@ -1,3 +1,6 @@
-let age = prompt("What is your age?")
-age++
-alert(`Nästa gång du fyller år blir du ${age}.`)
+let one = prompt()
+let two = prompt()
+
+let powNumber = Math.pow(one, two)
+
+alert(powNumber)
