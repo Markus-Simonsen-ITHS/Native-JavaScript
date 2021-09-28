@@ -1,3 +1,7 @@
-let n = 4
-let o = 12
-let p = 4
+let price = prompt()
+
+let VAT = 0.20
+
+let priceExlVAT = price * (1 - VAT)
+
+alert(priceExlVAT)
